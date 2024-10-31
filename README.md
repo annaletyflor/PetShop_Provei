@@ -1,4 +1,4 @@
-<div display="flex" justify-content="center">
+<div display="flex" align-itens="center">
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
 <p>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
