@@ -1,6 +1,6 @@
-<p align="center">
+
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
-</p>
+
 <h1 align="center"> Flor D'Pet </h1>
 
 <p align="center">
