@@ -6,7 +6,7 @@ namespace PetShop_Provei.Models
     public class Venda
     {
         [Key]
-        public Guid ID { get; set; }
+        public Guid ID { get; set; } = Guid.NewGuid();
 
         [ForeignKey("Cliente")]
         public int ClienteID { get; set; }

@@ -5,7 +5,7 @@ namespace PetShop_Provei.Models
     public class Fornecedor
     {
         [Key]
-        public Guid ID { get; set; }
+        public Guid ID { get; set; } = Guid.NewGuid();
 
         [Required]
         [StringLength(100)]
