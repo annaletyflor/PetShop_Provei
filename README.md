@@ -1,6 +1,5 @@
-<div display="flex">
+<div display="flex" justify-content="center">
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
-
 <p>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-capa">Capa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
