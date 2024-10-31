@@ -38,15 +38,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Visual Studio 2022: Ambiente de desenvolvimento integrado.
 - Framework ASP.NET MVC: Framework para desenvolvimento de aplicações web.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by AnnaLetyFlor 
-
-
 # Sistema de Vendas de Itens de Pet Shop
 
 Este projeto é um sistema de vendas de itens de pet shop desenvolvido em C# utilizando o padrão MVC. Ele fornece uma estrutura simples para gerenciar vendas, produtos, clientes e fornecedores, simulando as operações essenciais de um banco de dados de pet shop.
@@ -141,3 +132,10 @@ O banco de dados possui as seguintes tabelas:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_ com melhorias, correções ou novas funcionalidades.
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by AnnaLetyFlor 
