@@ -1,4 +1,4 @@
-<div display="flex" align-itens="center">
+
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
 <p>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,15 +8,11 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-</div>
-<h1> Flor D'Pet </h1>
 
+<h1> Flor D'Pet </h1>
 <p>
 Projeto desenvolvido por AnnaLetyFlor <br/>
 </p>
-
-
-
 
 
 
