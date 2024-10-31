@@ -4,6 +4,8 @@
 
 Este projeto é um sistema de vendas de itens de pet shop desenvolvido em C# utilizando o padrão MVC. Ele fornece uma estrutura simples para gerenciar vendas, produtos, clientes e fornecedores, simulando as operações essenciais de um banco de dados de pet shop.
 
+<img src="wwwroot/lib/Provei2024-banner.png">
+
 ## Objetivo
 
 O objetivo do sistema é oferecer uma aplicação web que permita o gerenciamento e controle de vendas de produtos de um pet shop, com informações completas sobre clientes, produtos, fornecedores, além de dados específicos de cada venda. Este sistema é ideal para fins de estudo e prática de conceitos de MVC, C# e integração com banco de dados.
