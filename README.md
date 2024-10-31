@@ -1,12 +1,34 @@
 
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
-<p> <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-capa">Capa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-estrutura-do-projeto">Estrutura do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-instalação-e-configuração">Instalação e Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-estrutura-do-banco-de-dados">Estrutura do Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#memo-licença">Licença</a> </p>
+<p> 
+   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-capa">Capa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-estrutura-do-projeto">Estrutura do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-instalação-e-configuração">Instalação e Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-estrutura-do-banco-de-dados">Estrutura do Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+   <a href="#memo-licença">Licença</a> </p>
 <h1> Flor D'Pet </h1>
 <p>
 Projeto desenvolvido por AnnaLetyFlor <br/>
 </p>
 
 <br>
+
+## 📖 Resumo
+
+Este projeto tem como objetivo desenvolver um sistema web completo para gestão de vendas, utilizando a arquitetura MVC (Model-View-Controller) e a linguagem C# no Visual Studio 2022. O sistema permite o cadastro de clientes, fornecedores e produtos, além de realizar o registro de vendas.
+
+<img src="wwwroot/lib/Provei2024-banner.png">
+
+## 🔗 Objetivo
+
+-Desenvolver um sistema web funcional e intuitivo para gestão de venda de roupas.
+Aplicar os conceitos da arquitetura MVC na prática.
+Utilizar as ferramentas do Visual Studio 2022 para criar uma aplicação robusta.
 
 ## 🚀 Tecnologias
 
@@ -16,38 +38,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Visual Studio 2022: Ambiente de desenvolvimento integrado.
 - Framework ASP.NET MVC: Framework para desenvolvimento de aplicações web.
 
-## 💻 Capa
-
-<p align="center">
-<img src="wwwroot/lib/BannerKlothes.png">
-</p>
-
-
-## 📖 Resumo
-
-Este projeto tem como objetivo desenvolver um sistema web completo para gestão de vendas, utilizando a arquitetura MVC (Model-View-Controller) e a linguagem C# no Visual Studio 2022. O sistema permite o cadastro de clientes, fornecedores e produtos, além de realizar o registro de vendas.
-
-
-## 🔗 Objetivo
-
--Desenvolver um sistema web funcional e intuitivo para gestão de venda de roupas.
-Aplicar os conceitos da arquitetura MVC na prática.
-Utilizar as ferramentas do Visual Studio 2022 para criar uma aplicação robusta.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Karol 
+Feito com ♥ by AnnaLetyFlor 
 
 
 # Sistema de Vendas de Itens de Pet Shop
 
 Este projeto é um sistema de vendas de itens de pet shop desenvolvido em C# utilizando o padrão MVC. Ele fornece uma estrutura simples para gerenciar vendas, produtos, clientes e fornecedores, simulando as operações essenciais de um banco de dados de pet shop.
-
-<img src="wwwroot/lib/Provei2024-banner.png">
 
 ## Objetivo
 
