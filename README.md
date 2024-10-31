@@ -1,19 +1,20 @@
 
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
 
-<h1 align="center"> Flor D'Pet </h1>
-
-<p align="center">
-Projeto desenvolvido por AnnaLetyFlor <br/>
-</p>
-
-<p align="center">
+<p>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-capa">Capa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-objetivo">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+<h1> Flor D'Pet </h1>
+
+<p>
+Projeto desenvolvido por AnnaLetyFlor <br/>
+</p>
+
+
 
 
 
