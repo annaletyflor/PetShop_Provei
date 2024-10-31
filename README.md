@@ -1,4 +1,4 @@
-
+<div display="flex">
 <img width="200px" src="wwwroot/lib/PROVEI2024-Icon.png">
 
 <p>
@@ -8,6 +8,8 @@
   <a href="#-objetivo">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+</div>
 <h1> Flor D'Pet </h1>
 
 <p>
